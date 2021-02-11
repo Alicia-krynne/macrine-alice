@@ -32,3 +32,9 @@ h1{
     font-size: 25px;
     color: rgb(234, 0, 255);
   }
+  #important{
+   font-weight: bolder;
+   color: indigo;
+   font-family:'Trebuchet MS';
+   font-size: 20pt;
+  }
