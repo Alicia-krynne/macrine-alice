@@ -2,3 +2,8 @@ h1{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium';
   }
+  .name{
+    font-weight: bolder;
+    text-align: center;
+    font-family: Arial;
+  }
