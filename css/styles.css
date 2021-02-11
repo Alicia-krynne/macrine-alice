@@ -7,3 +7,28 @@ h1{
     text-align: center;
     font-family: Arial;
   }
+  .bold{
+    font-style: oblique;
+    text-align: right;
+    font-size: 16pt;
+    text-shadow: blue;
+    color: darkblue;
+  }
+  #first{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+    color: gold;
+  }
+  #second{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(0, 195, 255);
+  }
+  #third{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(234, 0, 255);
+  }
