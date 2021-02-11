@@ -2,7 +2,7 @@
 #### A non published website containing my  portoforlio 09/02/2021
 #### By **ALICIA-KRYNNE**
 ## Description
-still my  portoforlio in development no  major changes 
+My portoforlio is still in development no  major changes yet.
 ## Setup/Installation Requirements
 * As it will be a website all that is needed is good connection and a link to it.
 * Once a link is available, copy it to the browseer and click  go.
