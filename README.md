@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # MY PORTOFORLIO
 #### A non published website containing my  portoforlio 09/02/2021
 #### By **ALICIA-KRYNNE**
 ## Description
 still my  portoforlio in development no  major changes 
+=======
+# MY PORTFORLIO
+#### A non published website containing my  portoforlio 09/02/2021
+#### By **ALICIA-KRYNNE**
+## Description
+My portoforlio is still in development no  major changes yet.
+>>>>>>> 7b98da442766a16759a9ce3f74cfe8ca8ae13d96
 ## Setup/Installation Requirements
 * As it will be a website all that is needed is good connection and a link to it.
 * Once a link is available, copy it to the browseer and click  go.
@@ -33,4 +41,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< HEAD
 SOFTWARE **Alcia-Krynne**
+=======
+SOFTWARE **Alcia-Krynne**
+>>>>>>> 7b98da442766a16759a9ce3f74cfe8ca8ae13d96
