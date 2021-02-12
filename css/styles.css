@@ -40,10 +40,35 @@ background-color: khaki;
 opacity: initial 0.3
 }
 #heading{
-  box-shadow: rgb(234, 0, 255);
-  border-color: plum;
+   border-color: plum;
   border-style: groove;
   font-size: 25pt;
   text-align: center;
   background-color: blueviolet;
+}
+#aboutme{
+  border-style: groove;
+  background-color: coral;
+}
+.middle{
+  background-position: center;
+  border-style: solid;
+  fill-opacity:initial 0.2;
+  background-color: lightcyan;
+}
+h2{
+  font-size: 15pt;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center
+}
+#bottom{
+  border: lightgreen;
+  background-color: lime;
+  backface-visibility: visible;
+  opacity 0.1;
+}
+h4{
+  text-align: center;
+  font-size: 16pt;
 }
