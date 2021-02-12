@@ -6,6 +6,8 @@ h1{
     font-weight: bolder;
     text-align: center;
     font-family: Arial;
+    font-size: 20pt;
+    color: indigo;
   }
   .bold{
     font-style: oblique;
@@ -36,5 +38,13 @@ h1{
    font-weight: bolder;
    color: indigo;
    font-family:'Trebuchet MS';
-   font-size: 20pt;
+   font-size: 14pt;
   }
+  .section p{
+    background-color :violet,transparent;
+    border-color: rgb(22, 20, 22);
+  }
+  .sidebar p{
+    color: rgb(11, 1, 12);
+  }
+ 
