@@ -2,13 +2,7 @@ h1{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium';
   }
-  .name{
-    font-weight: bolder;
-    text-align: center;
-    font-family: Arial;
-    font-size: 20pt;
-    color: indigo;
-  }
+  
   .bold{
     font-style: oblique;
     text-align: right;
@@ -40,11 +34,16 @@ h1{
    font-family:'Trebuchet MS';
    font-size: 14pt;
   }
-  .section p{
-    background-color :violet,transparent;
-    border-color: rgb(22, 20, 22);
-  }
-  .sidebar p{
-    color: rgb(11, 1, 12);
-  }
- 
+
+#background{
+background-color: khaki;
+opacity: initial 0.3
+}
+#heading{
+  box-shadow: rgb(234, 0, 255);
+  border-color: plum;
+  border-style: groove;
+  font-size: 18pt;
+  border-top-right-radius: 20mm;
+border-top-style: double;
+}
