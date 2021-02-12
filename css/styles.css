@@ -36,8 +36,12 @@ h1{
   }
 
 #background{
-background-color: khaki;
-opacity: initial 0.3
+background-color: #f0e68c;
+opacity: initial 0.3;
+width: 300px;
+  border: 15px solid rgb(224, 233, 224);
+  padding: 30px;
+  margin: 20px;
 }
 #heading{
    border-color: plum;
@@ -45,16 +49,34 @@ opacity: initial 0.3
   font-size: 25pt;
   text-align: center;
   background-color: blueviolet;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 #aboutme{
   border-style: groove;
   background-color: coral;
+  width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  float: none;
+  clear: left;
 }
 .middle{
   background-position: center;
   border-style: solid;
   fill-opacity:initial 0.2;
   background-color: lightcyan;
+  width: 500px;
+  border: 15px solid rgb(100, 128, 0);
+  padding: 450x;
+  margin: 30px;
+  float: none;
+  clear: left;
+  overflow: auto;
+
 }
 h2{
   font-size: 15pt;
@@ -67,8 +89,21 @@ h2{
   background-color: lime;
   backface-visibility: visible;
   opacity 0.1;
+  width: 400px;
+  border: 15px solid rgb(223, 231, 223);
+  padding: 50px;
+  margin: 20px;
+  float:none;
 }
 h4{
   text-align: center;
   font-size: 16pt;
+}
+#tag{
+  width: 300px;
+  border: 15px solid rgb(113, 0, 128);
+  padding: 50px;
+  margin: 20px;
+  background-color: linen;
+  float:none;
 }
