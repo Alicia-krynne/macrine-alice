@@ -43,7 +43,7 @@ opacity: initial 0.3
   box-shadow: rgb(234, 0, 255);
   border-color: plum;
   border-style: groove;
-  font-size: 18pt;
-  border-top-right-radius: 20mm;
-border-top-style: double;
+  font-size: 25pt;
+  text-align: center;
+  background-color: blueviolet;
 }
