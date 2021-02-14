@@ -14,23 +14,23 @@ h1{
     font-weight: bolder;
     font-style: italic;
     font-size: 25px;
-    color: gold;
+    color: rgb(22, 22, 21);
   }
   #second{
     font-weight: bolder;
     font-style: italic;
     font-size: 25px;
-    color: rgb(0, 195, 255);
+    color: rgb(2, 12, 15);
   }
   #third{
     font-weight: bolder;
     font-style: italic;
     font-size: 25px;
-    color: rgb(234, 0, 255);
+    color: rgb(17, 1, 19);
   }
   #important{
    font-weight: bolder;
-   color: indigo;
+   color: rgb(8, 1, 12);
    font-family:'Trebuchet MS';
    font-size: 14pt;
   }
@@ -56,26 +56,30 @@ width: 300px;
 }
 #aboutme{
   border-style: groove;
-  background-color: coral;
-  width: 200px;
-  border: 15px solid green;
+  background-image: url(https://pbs.twimg.com/media/DkykjF4UwAIhsBd.jpg);
+  width: 800px;
+  border: 5px solid rgb(88, 159, 240);
   padding: 50px;
   margin: 20px;
   float: none;
-  clear: left;
+  clear: right;
 }
 .middle{
   background-position: center;
   border-style: solid;
   fill-opacity:initial 0.2;
-  background-color: lightcyan;
+  background-image: url(https://media.istockphoto.com/vectors/korean-finger-heart-icon-vector-id1144656856?k=6&m=1144656856&s=612x612&w=0&h=2Is8Kbml53A1Gd7rOFOpE2ud778ygfod0tDso7r8OJg=);
   width: 500px;
-  border: 15px solid rgb(100, 128, 0);
+  border: 4px solid rgb(236, 88, 199);
   padding: 450x;
   margin: 30px;
   float: none;
   clear: left;
   overflow: auto;
+  font-size: 16px;
+  font-weight: 900;
+  color: rgb(19, 10, 3);
+
 }
 h2{
   font-size: 15pt;
@@ -84,25 +88,26 @@ h2{
   text-align: center
 }
 #bottom{
-  border: lightgreen;
-  background-color: lime;
+  background-image: url(https://www.wallpapertip.com/wmimgs/83-838381_html-wallpaper-background-code-coding-tags.jpg);
   backface-visibility: visible;
   opacity 0.1;
-  width: 400px;
-  border: 15px solid rgb(223, 231, 223);
+  width: 600px;
+  border: 5px solid rgb(49, 45, 51);
   padding: 50px;
   margin: 20px;
   float:none;
+  color: aliceblue;
 }
 h4{
   text-align: center;
   font-size: 16pt;
 }
 #tag{
-  width: 300px;
-  border: 15px solid rgb(113, 0, 128);
-  padding: 50px;
-  margin: 20px;
-  background-color: linen;
+  width: 400px;
+  border: 5px solid rgb(25, 110, 236);
+  padding: 60px;
+  margin: 10px;
+  background-image: url(https://i.pinimg.com/originals/81/34/02/813402c90767275120b69dc8e5a79850.jpg);
   float:none;
+  color: rgb(25, 57, 61);
 }
