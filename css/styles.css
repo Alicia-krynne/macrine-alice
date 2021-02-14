@@ -36,10 +36,10 @@ h1{
   }
 
 #background{
-background-color: #f0e68c;
+background-image:url(https://static.wikia.nocookie.net/the-bangtan-boys/images/3/3f/Koya_BT21.png/revision/latest/top-crop/width/360/height/450?cb=20210116005138);
 opacity: initial 0.3;
 width: 300px;
-  border: 15px solid rgb(224, 233, 224);
+  border: 5px solid rgb(7, 192, 243);
   padding: 30px;
   margin: 20px;
 }
@@ -48,7 +48,7 @@ width: 300px;
   border-style: groove;
   font-size: 25pt;
   text-align: center;
-  background-color: blueviolet;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuoX8Nhg339QwBZoYiPZ1x9a3f0GTKkoluwg&usqp=CAU);
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
@@ -76,7 +76,6 @@ width: 300px;
   float: none;
   clear: left;
   overflow: auto;
-
 }
 h2{
   font-size: 15pt;
