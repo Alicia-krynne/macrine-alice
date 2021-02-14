@@ -111,3 +111,14 @@ h4{
   float:none;
   color: rgb(25, 57, 61);
 }
+.important{
+  background-image: url(https://www.wallpapertip.com/wmimgs/83-838381_html-wallpaper-background-code-coding-tags.jpg);
+  backface-visibility: visible;
+  opacity 0.1;
+  width: 600px;
+  border: 5px solid rgb(49, 45, 51);
+  padding: 50px;
+  margin: 20px;
+  float:none;
+  color: aliceblue;
+}
